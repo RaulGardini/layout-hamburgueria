@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #630707;
+    padding: 15px 5px 15px 5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #2E0303;
+}
+
+#text h1 {
+    font-family: "Protest Strike", sans-serif;
+    color: white;
+    font-size: 7em;
+    padding-top: 15%;
+    padding-left: 20%;
+    width: 70%;
+}
+
+#text p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    padding-left: 20%;
+}
+
+#img {
+    width: 70%;
+}
+
+#img img {
+    width: 80%;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.combo1 {
+    margin-top: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.combo2 {
+    margin-top: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.combo3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.combo1 h2 {
+    padding-top: 30px;
+    font-weight: 400;
+    font-weight: bold;
+}
+
+.combo2 h2 {
+    padding-top: 30px;
+    font-weight: 400;
+    font-weight: bold;
+}
+
+.combo3 h2 {
+    font-weight: 400;
+    font-weight: bold;
+}
+
+.combo1 p {
+    margin-top: 10px;
+}
+
+.combo2 p {
+    margin-top: 10px;
+}
+
+.combo3 p {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.preço {
+    display: flex;
+    justify-content: center;
+}
+
+.grande {
+    font-size: 2em; /* Aumenta um pouco o tamanho da fonte */
+    margin-top: -7px; /* Move a classe um pouco para cima */
+}
+
+.meio {
+    border-top: 2px solid gray;
+    width: 90%;
+    margin: 20px 0;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+
+#banner {
+    display: flex;
+    margin-top: 50px;
+}
+
+#banner img {
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #3E0202;
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 60px;
+}
+
+footer img {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.linha {
+    border-left: 2px solid rgb(255, 255, 255); /* Linha cinza à esquerda */
+    height: 20px; /* Altura da linha */
+    margin: 5px; /* Adiciona margem em volta da linha */
+}
+
+#divrodape {
+    display: flex;
+    text-align: center;
+    padding-left: 37%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#divrodape h2 {
+    color: white;
+}
+
+#redes {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+}
